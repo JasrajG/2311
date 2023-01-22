@@ -1,1 +1,1 @@
-conflict
+same line change
