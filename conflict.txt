@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 same line change
+=======
+something cool
+>>>>>>> test
