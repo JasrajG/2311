@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Test modifying files 
 On master
+Addition on merge
+=======
+In branch 2
+>>>>>>> branch2
